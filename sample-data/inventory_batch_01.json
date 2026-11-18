@@ -1,0 +1,26 @@
+[
+  {
+    "item_id": "SKU-WH-001",
+    "product_name": "Industrial Barcode Scanner",
+    "category": "Warehouse Equipment",
+    "stock_qty": 45,
+    "unit_price_usd": 129.50,
+    "warehouse_zone": "Zone-A1"
+  },
+  {
+    "item_id": "SKU-WH-002",
+    "product_name": "Heavy Duty Pallet Wrap Roll",
+    "category": "Packaging",
+    "stock_qty": 210,
+    "unit_price_usd": 18.75,
+    "warehouse_zone": "Zone-B3"
+  },
+  {
+    "item_id": "SKU-WH-003",
+    "product_name": "Thermal Shipping Label 4x6",
+    "category": "Consumables",
+    "stock_qty": 500,
+    "unit_price_usd": 12.00,
+    "warehouse_zone": "Zone-C2"
+  }
+]
